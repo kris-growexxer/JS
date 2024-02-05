@@ -2,7 +2,7 @@ let a=20;
 console.log(a);
 
 a=1.20;
-console.log(a);
+console.log(a);>>>>>>> nano
 
 
 const isBool=true;
@@ -120,4 +120,10 @@ z();
 // console.log(a);
 
 
+
 //creating PR
+let newArr=[1,2,3,4,5];
+
+for (let item in newArr){
+    console.log(item);
+}
