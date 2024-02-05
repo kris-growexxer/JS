@@ -119,3 +119,8 @@ z();
 
 // console.log(a);
 
+let newArr=[1,2,3,4,5];
+
+for (let item in newArr){
+    console.log(item);
+}
