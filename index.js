@@ -110,11 +110,12 @@ var z=function(){
 z();
 
 
-a=false;
-console.log(a||0||20);
+// a=false;
+// console.log(a||0||20);
 
-a ||= 10;
-console.log(a);
-a ||= 0;
+// a ||= 10;
+// console.log(a);
+// a ||= 0;
 
-console.log(a);
+// console.log(a);
+
